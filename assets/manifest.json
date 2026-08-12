@@ -1,0 +1,1381 @@
+{
+ "sprites": {
+  "mermaid-purple-swim": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/mermaid-purple-swim/0.png",
+     "w": 297,
+     "h": 207
+    },
+    {
+     "file": "sprites/mermaid-purple-swim/1.png",
+     "w": 279,
+     "h": 195
+    },
+    {
+     "file": "sprites/mermaid-purple-swim/2.png",
+     "w": 298,
+     "h": 208
+    },
+    {
+     "file": "sprites/mermaid-purple-swim/3.png",
+     "w": 269,
+     "h": 269
+    },
+    {
+     "file": "sprites/mermaid-purple-swim/4.png",
+     "w": 251,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-swim/5.png",
+     "w": 269,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-swim/6.png",
+     "w": 202,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-swim/7.png",
+     "w": 272,
+     "h": 200
+    }
+   ]
+  },
+  "mermaid-purple-idle": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/mermaid-purple-idle/0.png",
+     "w": 193,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-idle/1.png",
+     "w": 196,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-idle/2.png",
+     "w": 183,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-idle/3.png",
+     "w": 203,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-idle/4.png",
+     "w": 194,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-idle/5.png",
+     "w": 191,
+     "h": 279
+    }
+   ]
+  },
+  "mermaid-purple-song": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/mermaid-purple-song/0.png",
+     "w": 226,
+     "h": 241
+    },
+    {
+     "file": "sprites/mermaid-purple-song/1.png",
+     "w": 210,
+     "h": 247
+    },
+    {
+     "file": "sprites/mermaid-purple-song/2.png",
+     "w": 239,
+     "h": 256
+    },
+    {
+     "file": "sprites/mermaid-purple-song/3.png",
+     "w": 261,
+     "h": 293
+    },
+    {
+     "file": "sprites/mermaid-purple-song/4.png",
+     "w": 271,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-song/5.png",
+     "w": 221,
+     "h": 271
+    },
+    {
+     "file": "sprites/mermaid-purple-song/6.png",
+     "w": 209,
+     "h": 276
+    },
+    {
+     "file": "sprites/mermaid-purple-song/7.png",
+     "w": 211,
+     "h": 269
+    }
+   ]
+  },
+  "mermaid-purple-spin": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/mermaid-purple-spin/0.png",
+     "w": 249,
+     "h": 272
+    },
+    {
+     "file": "sprites/mermaid-purple-spin/1.png",
+     "w": 238,
+     "h": 276
+    },
+    {
+     "file": "sprites/mermaid-purple-spin/2.png",
+     "w": 234,
+     "h": 277
+    },
+    {
+     "file": "sprites/mermaid-purple-spin/3.png",
+     "w": 219,
+     "h": 299
+    },
+    {
+     "file": "sprites/mermaid-purple-spin/4.png",
+     "w": 246,
+     "h": 274
+    },
+    {
+     "file": "sprites/mermaid-purple-spin/5.png",
+     "w": 220,
+     "h": 295
+    },
+    {
+     "file": "sprites/mermaid-purple-spin/6.png",
+     "w": 192,
+     "h": 300
+    },
+    {
+     "file": "sprites/mermaid-purple-spin/7.png",
+     "w": 200,
+     "h": 300
+    }
+   ]
+  },
+  "mermaid-pink-swim": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/mermaid-pink-swim/0.png",
+     "w": 291,
+     "h": 186
+    },
+    {
+     "file": "sprites/mermaid-pink-swim/1.png",
+     "w": 285,
+     "h": 232
+    },
+    {
+     "file": "sprites/mermaid-pink-swim/2.png",
+     "w": 267,
+     "h": 265
+    },
+    {
+     "file": "sprites/mermaid-pink-swim/3.png",
+     "w": 277,
+     "h": 214
+    },
+    {
+     "file": "sprites/mermaid-pink-swim/4.png",
+     "w": 290,
+     "h": 186
+    },
+    {
+     "file": "sprites/mermaid-pink-swim/5.png",
+     "w": 276,
+     "h": 216
+    },
+    {
+     "file": "sprites/mermaid-pink-swim/6.png",
+     "w": 254,
+     "h": 255
+    },
+    {
+     "file": "sprites/mermaid-pink-swim/7.png",
+     "w": 275,
+     "h": 213
+    }
+   ]
+  },
+  "mermaid-blonde-swim": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/mermaid-blonde-swim/0.png",
+     "w": 255,
+     "h": 269
+    },
+    {
+     "file": "sprites/mermaid-blonde-swim/1.png",
+     "w": 275,
+     "h": 234
+    },
+    {
+     "file": "sprites/mermaid-blonde-swim/2.png",
+     "w": 251,
+     "h": 237
+    },
+    {
+     "file": "sprites/mermaid-blonde-swim/3.png",
+     "w": 286,
+     "h": 170
+    },
+    {
+     "file": "sprites/mermaid-blonde-swim/4.png",
+     "w": 271,
+     "h": 230
+    },
+    {
+     "file": "sprites/mermaid-blonde-swim/5.png",
+     "w": 244,
+     "h": 231
+    },
+    {
+     "file": "sprites/mermaid-blonde-swim/6.png",
+     "w": 286,
+     "h": 225
+    },
+    {
+     "file": "sprites/mermaid-blonde-swim/7.png",
+     "w": 245,
+     "h": 271
+    }
+   ]
+  },
+  "clam": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/clam/0.png",
+     "w": 153,
+     "h": 169
+    },
+    {
+     "file": "sprites/clam/1.png",
+     "w": 160,
+     "h": 173
+    },
+    {
+     "file": "sprites/clam/2.png",
+     "w": 168,
+     "h": 174
+    },
+    {
+     "file": "sprites/clam/3.png",
+     "w": 161,
+     "h": 180
+    },
+    {
+     "file": "sprites/clam/4.png",
+     "w": 148,
+     "h": 180
+    },
+    {
+     "file": "sprites/clam/5.png",
+     "w": 147,
+     "h": 180
+    }
+   ]
+  },
+  "pearl": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/pearl/0.png",
+     "w": 120,
+     "h": 118
+    },
+    {
+     "file": "sprites/pearl/1.png",
+     "w": 99,
+     "h": 120
+    },
+    {
+     "file": "sprites/pearl/2.png",
+     "w": 103,
+     "h": 120
+    },
+    {
+     "file": "sprites/pearl/3.png",
+     "w": 98,
+     "h": 120
+    },
+    {
+     "file": "sprites/pearl/4.png",
+     "w": 120,
+     "h": 119
+    },
+    {
+     "file": "sprites/pearl/5.png",
+     "w": 110,
+     "h": 120
+    }
+   ]
+  },
+  "sea-star": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/sea-star/0.png",
+     "w": 160,
+     "h": 157
+    },
+    {
+     "file": "sprites/sea-star/1.png",
+     "w": 148,
+     "h": 160
+    },
+    {
+     "file": "sprites/sea-star/2.png",
+     "w": 156,
+     "h": 160
+    },
+    {
+     "file": "sprites/sea-star/3.png",
+     "w": 151,
+     "h": 160
+    },
+    {
+     "file": "sprites/sea-star/4.png",
+     "w": 143,
+     "h": 160
+    },
+    {
+     "file": "sprites/sea-star/5.png",
+     "w": 149,
+     "h": 160
+    }
+   ]
+  },
+  "seahorse": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/seahorse/0.png",
+     "w": 119,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse/1.png",
+     "w": 139,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse/2.png",
+     "w": 191,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse/3.png",
+     "w": 199,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse/4.png",
+     "w": 200,
+     "h": 189
+    },
+    {
+     "file": "sprites/seahorse/5.png",
+     "w": 123,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse/6.png",
+     "w": 133,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse/7.png",
+     "w": 116,
+     "h": 200
+    }
+   ]
+  },
+  "seahorse-teal": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/seahorse-teal/0.png",
+     "w": 102,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse-teal/1.png",
+     "w": 128,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse-teal/2.png",
+     "w": 178,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse-teal/3.png",
+     "w": 127,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse-teal/4.png",
+     "w": 132,
+     "h": 200
+    },
+    {
+     "file": "sprites/seahorse-teal/5.png",
+     "w": 102,
+     "h": 200
+    }
+   ]
+  },
+  "jellyfish": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/jellyfish/0.png",
+     "w": 116,
+     "h": 200
+    },
+    {
+     "file": "sprites/jellyfish/1.png",
+     "w": 153,
+     "h": 200
+    },
+    {
+     "file": "sprites/jellyfish/2.png",
+     "w": 166,
+     "h": 200
+    },
+    {
+     "file": "sprites/jellyfish/3.png",
+     "w": 186,
+     "h": 200
+    },
+    {
+     "file": "sprites/jellyfish/4.png",
+     "w": 181,
+     "h": 200
+    },
+    {
+     "file": "sprites/jellyfish/5.png",
+     "w": 124,
+     "h": 200
+    },
+    {
+     "file": "sprites/jellyfish/6.png",
+     "w": 139,
+     "h": 200
+    },
+    {
+     "file": "sprites/jellyfish/7.png",
+     "w": 123,
+     "h": 200
+    }
+   ]
+  },
+  "pufferfish": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/pufferfish/0.png",
+     "w": 186,
+     "h": 155
+    },
+    {
+     "file": "sprites/pufferfish/1.png",
+     "w": 181,
+     "h": 153
+    },
+    {
+     "file": "sprites/pufferfish/2.png",
+     "w": 157,
+     "h": 142
+    },
+    {
+     "file": "sprites/pufferfish/3.png",
+     "w": 171,
+     "h": 167
+    },
+    {
+     "file": "sprites/pufferfish/4.png",
+     "w": 178,
+     "h": 180
+    },
+    {
+     "file": "sprites/pufferfish/5.png",
+     "w": 188,
+     "h": 138
+    }
+   ]
+  },
+  "clownfish": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/clownfish/0.png",
+     "w": 158,
+     "h": 200
+    },
+    {
+     "file": "sprites/clownfish/1.png",
+     "w": 200,
+     "h": 134
+    },
+    {
+     "file": "sprites/clownfish/2.png",
+     "w": 187,
+     "h": 189
+    },
+    {
+     "file": "sprites/clownfish/3.png",
+     "w": 150,
+     "h": 200
+    },
+    {
+     "file": "sprites/clownfish/4.png",
+     "w": 177,
+     "h": 200
+    },
+    {
+     "file": "sprites/clownfish/5.png",
+     "w": 200,
+     "h": 166
+    }
+   ]
+  },
+  "fancy-blue-fish": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/fancy-blue-fish/0.png",
+     "w": 189,
+     "h": 197
+    },
+    {
+     "file": "sprites/fancy-blue-fish/1.png",
+     "w": 146,
+     "h": 200
+    },
+    {
+     "file": "sprites/fancy-blue-fish/2.png",
+     "w": 170,
+     "h": 200
+    },
+    {
+     "file": "sprites/fancy-blue-fish/3.png",
+     "w": 168,
+     "h": 200
+    },
+    {
+     "file": "sprites/fancy-blue-fish/4.png",
+     "w": 122,
+     "h": 200
+    },
+    {
+     "file": "sprites/fancy-blue-fish/5.png",
+     "w": 138,
+     "h": 200
+    }
+   ]
+  },
+  "fish-purple": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/fish-purple/0.png",
+     "w": 200,
+     "h": 142
+    },
+    {
+     "file": "sprites/fish-purple/1.png",
+     "w": 200,
+     "h": 143
+    },
+    {
+     "file": "sprites/fish-purple/2.png",
+     "w": 200,
+     "h": 121
+    },
+    {
+     "file": "sprites/fish-purple/3.png",
+     "w": 200,
+     "h": 148
+    },
+    {
+     "file": "sprites/fish-purple/4.png",
+     "w": 200,
+     "h": 161
+    },
+    {
+     "file": "sprites/fish-purple/5.png",
+     "w": 200,
+     "h": 162
+    },
+    {
+     "file": "sprites/fish-purple/6.png",
+     "w": 200,
+     "h": 120
+    },
+    {
+     "file": "sprites/fish-purple/7.png",
+     "w": 200,
+     "h": 133
+    }
+   ]
+  },
+  "fish-purple-round": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/fish-purple-round/0.png",
+     "w": 200,
+     "h": 151
+    },
+    {
+     "file": "sprites/fish-purple-round/1.png",
+     "w": 200,
+     "h": 153
+    },
+    {
+     "file": "sprites/fish-purple-round/2.png",
+     "w": 200,
+     "h": 144
+    },
+    {
+     "file": "sprites/fish-purple-round/3.png",
+     "w": 200,
+     "h": 179
+    },
+    {
+     "file": "sprites/fish-purple-round/4.png",
+     "w": 200,
+     "h": 155
+    },
+    {
+     "file": "sprites/fish-purple-round/5.png",
+     "w": 200,
+     "h": 148
+    }
+   ]
+  },
+  "fish-pink-spotted": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/fish-pink-spotted/0.png",
+     "w": 200,
+     "h": 131
+    },
+    {
+     "file": "sprites/fish-pink-spotted/1.png",
+     "w": 194,
+     "h": 200
+    },
+    {
+     "file": "sprites/fish-pink-spotted/2.png",
+     "w": 200,
+     "h": 131
+    },
+    {
+     "file": "sprites/fish-pink-spotted/3.png",
+     "w": 200,
+     "h": 165
+    },
+    {
+     "file": "sprites/fish-pink-spotted/4.png",
+     "w": 200,
+     "h": 135
+    },
+    {
+     "file": "sprites/fish-pink-spotted/5.png",
+     "w": 200,
+     "h": 164
+    }
+   ]
+  },
+  "fish-teal-yellow": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/fish-teal-yellow/0.png",
+     "w": 200,
+     "h": 112
+    },
+    {
+     "file": "sprites/fish-teal-yellow/1.png",
+     "w": 200,
+     "h": 129
+    },
+    {
+     "file": "sprites/fish-teal-yellow/2.png",
+     "w": 200,
+     "h": 115
+    },
+    {
+     "file": "sprites/fish-teal-yellow/3.png",
+     "w": 200,
+     "h": 114
+    },
+    {
+     "file": "sprites/fish-teal-yellow/4.png",
+     "w": 200,
+     "h": 160
+    },
+    {
+     "file": "sprites/fish-teal-yellow/5.png",
+     "w": 200,
+     "h": 119
+    }
+   ]
+  },
+  "coral": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/coral/0.png",
+     "w": 273,
+     "h": 329
+    },
+    {
+     "file": "sprites/coral/1.png",
+     "w": 245,
+     "h": 265
+    },
+    {
+     "file": "sprites/coral/2.png",
+     "w": 291,
+     "h": 290
+    },
+    {
+     "file": "sprites/coral/3.png",
+     "w": 231,
+     "h": 223
+    },
+    {
+     "file": "sprites/coral/4.png",
+     "w": 204,
+     "h": 311
+    },
+    {
+     "file": "sprites/coral/5.png",
+     "w": 237,
+     "h": 270
+    }
+   ]
+  },
+  "kelp": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/kelp/0.png",
+     "w": 72,
+     "h": 340
+    },
+    {
+     "file": "sprites/kelp/1.png",
+     "w": 68,
+     "h": 340
+    },
+    {
+     "file": "sprites/kelp/2.png",
+     "w": 197,
+     "h": 280
+    },
+    {
+     "file": "sprites/kelp/3.png",
+     "w": 201,
+     "h": 273
+    },
+    {
+     "file": "sprites/kelp/4.png",
+     "w": 328,
+     "h": 232
+    }
+   ]
+  },
+  "rocks": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/rocks/0.png",
+     "w": 204,
+     "h": 151
+    },
+    {
+     "file": "sprites/rocks/1.png",
+     "w": 204,
+     "h": 182
+    },
+    {
+     "file": "sprites/rocks/2.png",
+     "w": 196,
+     "h": 167
+    },
+    {
+     "file": "sprites/rocks/3.png",
+     "w": 236,
+     "h": 147
+    },
+    {
+     "file": "sprites/rocks/4.png",
+     "w": 191,
+     "h": 108
+    },
+    {
+     "file": "sprites/rocks/5.png",
+     "w": 185,
+     "h": 102
+    },
+    {
+     "file": "sprites/rocks/6.png",
+     "w": 178,
+     "h": 102
+    },
+    {
+     "file": "sprites/rocks/7.png",
+     "w": 340,
+     "h": 196
+    },
+    {
+     "file": "sprites/rocks/8.png",
+     "w": 340,
+     "h": 192
+    }
+   ]
+  },
+  "bubbles": {
+   "kind": "glow",
+   "frames": [
+    {
+     "file": "sprites/bubbles/0.png",
+     "w": 159,
+     "h": 160
+    },
+    {
+     "file": "sprites/bubbles/1.png",
+     "w": 159,
+     "h": 160
+    },
+    {
+     "file": "sprites/bubbles/2.png",
+     "w": 160,
+     "h": 139
+    },
+    {
+     "file": "sprites/bubbles/3.png",
+     "w": 129,
+     "h": 160
+    },
+    {
+     "file": "sprites/bubbles/4.png",
+     "w": 143,
+     "h": 146
+    }
+   ]
+  },
+  "sparkles": {
+   "kind": "glow",
+   "frames": [
+    {
+     "file": "sprites/sparkles/0.png",
+     "w": 67,
+     "h": 71
+    },
+    {
+     "file": "sprites/sparkles/1.png",
+     "w": 67,
+     "h": 71
+    },
+    {
+     "file": "sprites/sparkles/2.png",
+     "w": 29,
+     "h": 46
+    },
+    {
+     "file": "sprites/sparkles/3.png",
+     "w": 50,
+     "h": 38
+    },
+    {
+     "file": "sprites/sparkles/4.png",
+     "w": 40,
+     "h": 46
+    },
+    {
+     "file": "sprites/sparkles/5.png",
+     "w": 29,
+     "h": 29
+    },
+    {
+     "file": "sprites/sparkles/6.png",
+     "w": 180,
+     "h": 156
+    },
+    {
+     "file": "sprites/sparkles/7.png",
+     "w": 132,
+     "h": 103
+    },
+    {
+     "file": "sprites/sparkles/8.png",
+     "w": 180,
+     "h": 125
+    },
+    {
+     "file": "sprites/sparkles/9.png",
+     "w": 34,
+     "h": 30
+    },
+    {
+     "file": "sprites/sparkles/10.png",
+     "w": 53,
+     "h": 47
+    },
+    {
+     "file": "sprites/sparkles/11.png",
+     "w": 29,
+     "h": 33
+    },
+    {
+     "file": "sprites/sparkles/12.png",
+     "w": 180,
+     "h": 84
+    },
+    {
+     "file": "sprites/sparkles/13.png",
+     "w": 73,
+     "h": 66
+    },
+    {
+     "file": "sprites/sparkles/14.png",
+     "w": 180,
+     "h": 38
+    }
+   ]
+  },
+  "light-rays": {
+   "kind": "glow",
+   "frames": [
+    {
+     "file": "sprites/light-rays/0.png",
+     "w": 245,
+     "h": 284
+    },
+    {
+     "file": "sprites/light-rays/1.png",
+     "w": 225,
+     "h": 345
+    },
+    {
+     "file": "sprites/light-rays/2.png",
+     "w": 144,
+     "h": 258
+    },
+    {
+     "file": "sprites/light-rays/3.png",
+     "w": 371,
+     "h": 400
+    },
+    {
+     "file": "sprites/light-rays/4.png",
+     "w": 166,
+     "h": 180
+    },
+    {
+     "file": "sprites/light-rays/5.png",
+     "w": 167,
+     "h": 215
+    },
+    {
+     "file": "sprites/light-rays/6.png",
+     "w": 369,
+     "h": 240
+    },
+    {
+     "file": "sprites/light-rays/7.png",
+     "w": 240,
+     "h": 171
+    }
+   ]
+  },
+  "treasure": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/treasure/0.png",
+     "w": 260,
+     "h": 253
+    },
+    {
+     "file": "sprites/treasure/1.png",
+     "w": 242,
+     "h": 260
+    },
+    {
+     "file": "sprites/treasure/2.png",
+     "w": 260,
+     "h": 185
+    },
+    {
+     "file": "sprites/treasure/3.png",
+     "w": 165,
+     "h": 260
+    },
+    {
+     "file": "sprites/treasure/4.png",
+     "w": 260,
+     "h": 234
+    },
+    {
+     "file": "sprites/treasure/5.png",
+     "w": 238,
+     "h": 250
+    },
+    {
+     "file": "sprites/treasure/6.png",
+     "w": 249,
+     "h": 260
+    }
+   ]
+  },
+  "shipwreck": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/shipwreck/0.png",
+     "w": 782,
+     "h": 666
+    }
+   ]
+  },
+  "title-logo": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/title-logo/0.png",
+     "w": 792,
+     "h": 694
+    }
+   ]
+  },
+  "button-magic": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/button-magic/0.png",
+     "w": 249,
+     "h": 260
+    },
+    {
+     "file": "sprites/button-magic/1.png",
+     "w": 250,
+     "h": 260
+    }
+   ]
+  },
+  "button-spin": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/button-spin/0.png",
+     "w": 236,
+     "h": 260
+    },
+    {
+     "file": "sprites/button-spin/1.png",
+     "w": 237,
+     "h": 260
+    }
+   ]
+  },
+  "button-pause": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/button-pause/0.png",
+     "w": 255,
+     "h": 260
+    }
+   ]
+  },
+  "button-restart": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/button-restart/0.png",
+     "w": 243,
+     "h": 260
+    }
+   ]
+  },
+  "magic-meter": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/magic-meter/0.png",
+     "w": 640,
+     "h": 92
+    },
+    {
+     "file": "sprites/magic-meter/1.png",
+     "w": 640,
+     "h": 93
+    },
+    {
+     "file": "sprites/magic-meter/2.png",
+     "w": 640,
+     "h": 92
+    },
+    {
+     "file": "sprites/magic-meter/3.png",
+     "w": 640,
+     "h": 90
+    },
+    {
+     "file": "sprites/magic-meter/4.png",
+     "w": 640,
+     "h": 98
+    }
+   ]
+  },
+  "panel-frame": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/panel-frame/0.png",
+     "w": 900,
+     "h": 604
+    }
+   ]
+  },
+  "alphabet-upper": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/alphabet-upper/0.png",
+     "w": 108,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/1.png",
+     "w": 92,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/2.png",
+     "w": 92,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/3.png",
+     "w": 99,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/4.png",
+     "w": 85,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/5.png",
+     "w": 82,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/6.png",
+     "w": 101,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/7.png",
+     "w": 97,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/8.png",
+     "w": 51,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/9.png",
+     "w": 83,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/10.png",
+     "w": 99,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/11.png",
+     "w": 84,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/12.png",
+     "w": 110,
+     "h": 101
+    },
+    {
+     "file": "sprites/alphabet-upper/13.png",
+     "w": 96,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/14.png",
+     "w": 100,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/15.png",
+     "w": 85,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/16.png",
+     "w": 104,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/17.png",
+     "w": 95,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/18.png",
+     "w": 78,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/19.png",
+     "w": 101,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/20.png",
+     "w": 98,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/21.png",
+     "w": 98,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/22.png",
+     "w": 110,
+     "h": 88
+    },
+    {
+     "file": "sprites/alphabet-upper/23.png",
+     "w": 101,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/24.png",
+     "w": 103,
+     "h": 110
+    },
+    {
+     "file": "sprites/alphabet-upper/25.png",
+     "w": 93,
+     "h": 110
+    }
+   ]
+  },
+  "numbers": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/numbers/0.png",
+     "w": 80,
+     "h": 110
+    },
+    {
+     "file": "sprites/numbers/1.png",
+     "w": 60,
+     "h": 110
+    },
+    {
+     "file": "sprites/numbers/2.png",
+     "w": 74,
+     "h": 110
+    },
+    {
+     "file": "sprites/numbers/3.png",
+     "w": 76,
+     "h": 110
+    },
+    {
+     "file": "sprites/numbers/4.png",
+     "w": 76,
+     "h": 110
+    },
+    {
+     "file": "sprites/numbers/5.png",
+     "w": 72,
+     "h": 110
+    },
+    {
+     "file": "sprites/numbers/6.png",
+     "w": 73,
+     "h": 110
+    },
+    {
+     "file": "sprites/numbers/7.png",
+     "w": 71,
+     "h": 110
+    },
+    {
+     "file": "sprites/numbers/8.png",
+     "w": 74,
+     "h": 110
+    },
+    {
+     "file": "sprites/numbers/9.png",
+     "w": 72,
+     "h": 110
+    }
+   ]
+  },
+  "sand": {
+   "kind": "solid",
+   "frames": [
+    {
+     "file": "sprites/sand/0.png",
+     "w": 1168,
+     "h": 229
+    }
+   ]
+  }
+ },
+ "backgrounds": {
+  "coral-reef-path": "backgrounds/coral-reef-path.jpg",
+  "bubble-open-water": "backgrounds/bubble-open-water.jpg",
+  "kelp-forest": "backgrounds/kelp-forest.jpg",
+  "sandy-coral": "backgrounds/sandy-coral.jpg",
+  "dense-kelp": "backgrounds/dense-kelp.jpg",
+  "crystal-cave": "backgrounds/crystal-cave.jpg",
+  "anemone-garden": "backgrounds/anemone-garden.jpg",
+  "minimal-sandy": "backgrounds/minimal-sandy.jpg",
+  "starfish-beach": "backgrounds/starfish-beach.jpg",
+  "open-blue-bubbles": "backgrounds/open-blue-bubbles.jpg"
+ }
+}

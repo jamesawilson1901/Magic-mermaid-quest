@@ -1,0 +1,16 @@
+{
+  "name": "Magic Mermaid Quest",
+  "short_name": "Mermaid Quest",
+  "description": "A gentle underwater collecting game for young children.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#7ec8e8",
+  "theme_color": "#7ec8e8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
